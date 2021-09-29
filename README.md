@@ -5,7 +5,7 @@ By Ha Minh Tan, Duc-Quang Vu, Jia-Ching Wang
 ## Overview
 
 <p align="center">
-  <img width="800" alt="fig_method" src="https://github.com/vdquang1991/Self-KD/blob/main/model/Self-kD.png">
+  <img width="800" alt="fig_method" src="https://github.com/vdquang1991/selective_mutual_learning/blob/main/sml.png">
 </p>
 
 ## Running the code
