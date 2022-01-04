@@ -1,7 +1,6 @@
 # SELECTIVE MUTUAL LEARNING: AN EFFICIENT APPROACH FOR SINGLE CHANNEL SPEECH SEPARATION
 
-By Ha Minh Tan, Duc-Quang Vu, Jia-Ching Wang
-
+By Ha Minh Tan, Duc-Quang Vu, Chung-Ting Lee, Yung-Hui Li, Jia-Ching Wang,
 ## Overview
 We implement SML for the single-channel speech separation model in the time domain. 
 Our SML approach that only high-confidence predictions are utilized to guide the remaining 
