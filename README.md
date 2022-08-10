@@ -48,5 +48,15 @@ We evaluated the SML approach on the speaker-independent speech separation task
 using the WSJ0-2mix dataset. This is the common two-speaker benchmark used for 
 speech separation in recent years.
 
+### Citation
 
-
+~~~
+@inproceedings{tan2022selective,
+  title={Selective Mutual Learning: An Efficient Approach for Single Channel Speech Separation},
+  author={Tan, Ha Minh and Vu, Duc-Quang and Lee, Chung-Ting and Li, Yung-Hui and Wang, Jia-Ching},
+  booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={3678--3682},
+  year={2022},
+  organization={IEEE}
+}
+~~~
